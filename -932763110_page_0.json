@@ -1,0 +1,148 @@
+{
+  "id_sptag": "-932763110",
+  "index_page": 0,
+  "name_cl_sptag": "Azami Kagerou Project",
+  "name_parent": "Anime",
+  "total_img": 2,
+  "total_page": 0,
+  "hc_lt_alb": "-760531221",
+  "hc_lt_data_img": "-2106755672",
+  "hc_lt_nortag": "2100558219",
+  "hc_lt_sptag": "-312854935",
+  "lt_alb": [
+    {
+      "id_alb": "63410260",
+      "name_alb": "Anime",
+      "total_img": 85314
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-599193225",
+      "hc_lt_id_sptag": "-2011613486",
+      "id_img": "KagerouProject_966355_crop2608_134569718",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidS4sxwsIfAAdwxSTZeEYxvSl89PXbB3w8aWL0wbpAeXZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidS4sxwsIfAAdwxSTZeEYxvEzDGfl+rllVUCJRLZo0yE5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-1220928906",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-932763110",
+        "-1216236529",
+        "750914149",
+        "-353024394",
+        "-1092439432",
+        "-1686571485",
+        "1568092380",
+        "680065126",
+        "-1176638482",
+        "1078827483",
+        "491824726"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "2095367243",
+      "hc_lt_id_sptag": "1541704006",
+      "id_img": "KagerouProject_775399_crop2608_-1344587654",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieZRt6+QE3jDgbYTKF8Go74XZ2UWppUU0+r2s5mYaBxP5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieZRt6+QE3jDgbYTKF8Go744o5aJAJ2HaUUZ4SeE5Yd8ZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-1220928906"
+      ],
+      "lt_id_sptag": [
+        "-932763110"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-1182628656",
+      "name_cl_nortag": "Girls",
+      "total_img": 68557,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "-1220928906",
+      "name_cl_nortag": "Kagerou Project",
+      "total_img": 103,
+      "name_parent": "Anime"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "-932763110",
+      "name_cl_sptag": "Azami Kagerou Project",
+      "name_parent": "Anime",
+      "total": 2
+    },
+    {
+      "id_sptag": "-1176638482",
+      "name_cl_sptag": "Dark Black",
+      "name_parent": "Anime",
+      "total": 4051
+    },
+    {
+      "id_sptag": "491824726",
+      "name_cl_sptag": "Girls Cute Cool",
+      "name_parent": "Anime",
+      "total": 31431
+    },
+    {
+      "id_sptag": "-1092439432",
+      "name_cl_sptag": "Girls Dark",
+      "name_parent": "Anime",
+      "total": 3468
+    },
+    {
+      "id_sptag": "1568092380",
+      "name_cl_sptag": "Girls Eyes Orange",
+      "name_parent": "Anime",
+      "total": 3828
+    },
+    {
+      "id_sptag": "-1686571485",
+      "name_cl_sptag": "Girls Hair Black",
+      "name_parent": "Anime",
+      "total": 16737
+    },
+    {
+      "id_sptag": "750914149",
+      "name_cl_sptag": "Girls Kimono Yukata Cheongsam",
+      "name_parent": "Anime",
+      "total": 7942
+    },
+    {
+      "id_sptag": "-353024394",
+      "name_cl_sptag": "Girls Long Hair",
+      "name_parent": "Anime",
+      "total": 47407
+    },
+    {
+      "id_sptag": "680065126",
+      "name_cl_sptag": "Girls Sad",
+      "name_parent": "Anime",
+      "total": 10506
+    },
+    {
+      "id_sptag": "1078827483",
+      "name_cl_sptag": "Girls Tie Bows",
+      "name_parent": "Anime",
+      "total": 61257
+    },
+    {
+      "id_sptag": "-1216236529",
+      "name_cl_sptag": "Sad",
+      "name_parent": "Anime",
+      "total": 12057
+    }
+  ]
+}

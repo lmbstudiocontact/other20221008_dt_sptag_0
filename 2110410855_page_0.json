@@ -1,0 +1,122 @@
+{
+  "id_sptag": "2110410855",
+  "index_page": 0,
+  "name_cl_sptag": "Doppo Kannonzaka",
+  "name_parent": "Anime",
+  "total_img": 4,
+  "total_page": 0,
+  "hc_lt_alb": "-760531221",
+  "hc_lt_data_img": "-184946608",
+  "hc_lt_nortag": "1642738747",
+  "hc_lt_sptag": "-889022286",
+  "lt_alb": [
+    {
+      "id_alb": "63410260",
+      "name_alb": "Anime",
+      "total_img": 85314
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "1100743786",
+      "hc_lt_id_sptag": "1077621986",
+      "id_img": "HypnosisMic_1006571_crop2608_581120679",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicUuKSRW2WZ/NDaUNu5Kb223y7wq2yWsQZFbrpVYUJA3pVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicUuKSRW2WZ/NDaUNu5Kb22ELeJlEbAqN0pFufsVzNDQ5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-467032699",
+        "-1522392355"
+      ],
+      "lt_id_sptag": [
+        "2110410855"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "1100743786",
+      "hc_lt_id_sptag": "1077621986",
+      "id_img": "HypnosisMic_994859_crop2608_452754498",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic8v/RTfYeSFe+3QgHbWg58iuvIfLrQyuJjtTHA5di1pZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic8v/RTfYeSFe+3QgHbWg58fKMgJ1W5gmRgnx4y0tjk/ZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-467032699",
+        "-1522392355"
+      ],
+      "lt_id_sptag": [
+        "2110410855"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "1100743786",
+      "hc_lt_id_sptag": "-133989044",
+      "id_img": "HypnosisMic_1006092_crop2608_-1403977055",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid+1KFxlEl3ctIU/cwS0oKCclORyA4TT8/HeSYObpQQgZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid+1KFxlEl3ctIU/cwS0oKCst+sEoBSqvHQWgXobYQlipVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-467032699",
+        "-1522392355"
+      ],
+      "lt_id_sptag": [
+        "31526124",
+        "2110410855"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "1100743786",
+      "hc_lt_id_sptag": "1077621986",
+      "id_img": "HypnosisMic_994859_crop2608_-1504202065",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidqWZulciqbqunJUjJpQEyjUM4Mkjzl8qArxJ0zTJfiGJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidqWZulciqbqunJUjJpQEyj82ResLDVa0FWwwg2+5/u+ZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-467032699",
+        "-1522392355"
+      ],
+      "lt_id_sptag": [
+        "2110410855"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-467032699",
+      "name_cl_nortag": "Boy",
+      "total_img": 8592,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "-1522392355",
+      "name_cl_nortag": "Hypnosis Mic",
+      "total_img": 9,
+      "name_parent": "Anime"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "31526124",
+      "name_cl_sptag": "Butterfly",
+      "name_parent": "Anime",
+      "total": 89
+    },
+    {
+      "id_sptag": "2110410855",
+      "name_cl_sptag": "Doppo Kannonzaka",
+      "name_parent": "Anime",
+      "total": 4
+    }
+  ]
+}

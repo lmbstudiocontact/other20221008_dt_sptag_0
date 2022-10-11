@@ -1,0 +1,136 @@
+{
+  "id_sptag": "5559622",
+  "index_page": 0,
+  "name_cl_sptag": "Berserker FateZero",
+  "name_parent": "Anime",
+  "total_img": 3,
+  "total_page": 0,
+  "hc_lt_alb": "-760531221",
+  "hc_lt_data_img": "-1498694104",
+  "hc_lt_nortag": "1166024540",
+  "hc_lt_sptag": "-1558680608",
+  "lt_alb": [
+    {
+      "id_alb": "63410260",
+      "name_alb": "Anime",
+      "total_img": 85314
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "1905741899",
+      "hc_lt_id_sptag": "-1601498516",
+      "id_img": "FateGrandOrder_757911_crop2608_-731863933",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidtmkSGDyQrenpOu9ITfQFpva06WIKLKYWfrQ7/PZcd7pVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidtmkSGDyQrenpOu9ITfQFpupzkM3I3lbUKalp24yGDDZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1728965817",
+        "-784538297"
+      ],
+      "lt_id_sptag": [
+        "-2098974861",
+        "5559622",
+        "-1019873723"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-2022510395",
+      "hc_lt_id_sptag": "371807714",
+      "id_img": "Crossover_848763_crop2608_-1329250507",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidb6J917p9YbzrBO/hxBR2zvfrzpYtc6BmralbC1k+dN5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidb6J917p9YbzrBO/hxBR2zazjhs0p8Af/iyGZp9dwWEZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1213914829"
+      ],
+      "lt_id_sptag": [
+        "947707422",
+        "-2098974861",
+        "5559622",
+        "527966409"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-729929040",
+      "hc_lt_id_sptag": "1361098065",
+      "id_img": "FateZero_790535_crop2608_1619818278",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifaMoZ41PnokKCN+StjSm9KMAcYl9zMAyVlcpXbrqDboJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifaMoZ41PnokKCN+StjSm9Ki2g3xDgH/+57avXIniDRoJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-1895834835"
+      ],
+      "lt_id_sptag": [
+        "5559622"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "1728965817",
+      "name_cl_nortag": "Couple",
+      "total_img": 2059,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "1213914829",
+      "name_cl_nortag": "Crossover",
+      "total_img": 505,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "-784538297",
+      "name_cl_nortag": "FateGrand Order",
+      "total_img": 646,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "-1895834835",
+      "name_cl_nortag": "FateZero",
+      "total_img": 16,
+      "name_parent": "Anime"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "5559622",
+      "name_cl_sptag": "Berserker FateZero",
+      "name_parent": "Anime",
+      "total": 3
+    },
+    {
+      "id_sptag": "947707422",
+      "name_cl_sptag": "Lancer FateGrand Order",
+      "name_parent": "Anime",
+      "total": 14
+    },
+    {
+      "id_sptag": "527966409",
+      "name_cl_sptag": "Mordred FateApocrypha",
+      "name_parent": "Anime",
+      "total": 34
+    },
+    {
+      "id_sptag": "-1019873723",
+      "name_cl_sptag": "Saber Fate Series",
+      "name_parent": "Anime",
+      "total": 218
+    },
+    {
+      "id_sptag": "-2098974861",
+      "name_cl_sptag": "Saber of Red FateApocrypha",
+      "name_parent": "Anime",
+      "total": 29
+    }
+  ]
+}

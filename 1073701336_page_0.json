@@ -1,0 +1,213 @@
+{
+  "id_sptag": "1073701336",
+  "index_page": 0,
+  "name_cl_sptag": "Daiba Minato",
+  "name_parent": "Anime",
+  "total_img": 3,
+  "total_page": 0,
+  "hc_lt_alb": "-760531221",
+  "hc_lt_data_img": "-1016307008",
+  "hc_lt_nortag": "948269921",
+  "hc_lt_sptag": "36649743",
+  "lt_alb": [
+    {
+      "id_alb": "63410260",
+      "name_alb": "Anime",
+      "total_img": 85314
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-598402629",
+      "hc_lt_id_sptag": "1273397420",
+      "id_img": "MarriageRoyale_844947_crop2608_-71194944",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicvJfqWboCdmy6qk/RaCwJiBcGxy9g6bsYbd6EYvrXnK5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicvJfqWboCdmy6qk/RaCwJi8IzHFWJL5qhwWTzs6HoVDJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1256089645",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "1545739930",
+        "-68485551",
+        "-1230434216",
+        "1541647243",
+        "1813151526",
+        "1078827483",
+        "1410951528",
+        "1073701336"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-598402629",
+      "hc_lt_id_sptag": "2004374914",
+      "id_img": "MarriageRoyale_844943_crop2608_1595859593",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiewFMQ9wYKbIyZrJKq1sXeB3N0aREUdNECmM+NEgJNkjpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiewFMQ9wYKbIyZrJKq1sXeB7PatyF+FSSd7U1q3swC/QJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1256089645",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "1545739930",
+        "-68485551",
+        "-353024394",
+        "-1686571485",
+        "-1450260536",
+        "1627623413",
+        "1541647243",
+        "-1353196196",
+        "-260062140",
+        "-899599709",
+        "1078827483",
+        "-8788692",
+        "1410951528",
+        "1073701336"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-598402629",
+      "hc_lt_id_sptag": "-804245955",
+      "id_img": "MarriageRoyale_844947_crop2608_-426374907",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicQvPk+JYunu7StkSLiwsOFfWcF8E6IZ4Tr20lVmGBkyZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicQvPk+JYunu7StkSLiwsOFyJeKHgB6xUUwvT/RgyawmJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1256089645",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-68485551",
+        "-353024394",
+        "-1686571485",
+        "-260062140",
+        "-899599709",
+        "1078827483",
+        "1073701336"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-1182628656",
+      "name_cl_nortag": "Girls",
+      "total_img": 68557,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "1256089645",
+      "name_cl_nortag": "Marriage Royale",
+      "total_img": 10,
+      "name_parent": "Anime"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "-68485551",
+      "name_cl_sptag": "Akita Komachi",
+      "name_parent": "Anime",
+      "total": 6
+    },
+    {
+      "id_sptag": "-8788692",
+      "name_cl_sptag": "Asahi Sanjoh",
+      "name_parent": "Anime",
+      "total": 4
+    },
+    {
+      "id_sptag": "1073701336",
+      "name_cl_sptag": "Daiba Minato",
+      "name_parent": "Anime",
+      "total": 3
+    },
+    {
+      "id_sptag": "-899599709",
+      "name_cl_sptag": "Girls Eyes Black",
+      "name_parent": "Anime",
+      "total": 5810
+    },
+    {
+      "id_sptag": "1545739930",
+      "name_cl_sptag": "Girls Eyes Brown",
+      "name_parent": "Anime",
+      "total": 9376
+    },
+    {
+      "id_sptag": "-1686571485",
+      "name_cl_sptag": "Girls Hair Black",
+      "name_parent": "Anime",
+      "total": 16737
+    },
+    {
+      "id_sptag": "-1450260536",
+      "name_cl_sptag": "Girls Hair Blue",
+      "name_parent": "Anime",
+      "total": 9528
+    },
+    {
+      "id_sptag": "1813151526",
+      "name_cl_sptag": "Girls Hair Brow",
+      "name_parent": "Anime",
+      "total": 13760
+    },
+    {
+      "id_sptag": "-1353196196",
+      "name_cl_sptag": "Girls Hair Orange",
+      "name_parent": "Anime",
+      "total": 4128
+    },
+    {
+      "id_sptag": "1627623413",
+      "name_cl_sptag": "Girls Hair Red",
+      "name_parent": "Anime",
+      "total": 3081
+    },
+    {
+      "id_sptag": "-353024394",
+      "name_cl_sptag": "Girls Long Hair",
+      "name_parent": "Anime",
+      "total": 47407
+    },
+    {
+      "id_sptag": "1410951528",
+      "name_cl_sptag": "Girls Short Hair",
+      "name_parent": "Anime",
+      "total": 23769
+    },
+    {
+      "id_sptag": "-1230434216",
+      "name_cl_sptag": "Girls Smile",
+      "name_parent": "Anime",
+      "total": 24284
+    },
+    {
+      "id_sptag": "1541647243",
+      "name_cl_sptag": "Girls Student",
+      "name_parent": "Anime",
+      "total": 16308
+    },
+    {
+      "id_sptag": "1078827483",
+      "name_cl_sptag": "Girls Tie Bows",
+      "name_parent": "Anime",
+      "total": 61257
+    },
+    {
+      "id_sptag": "-260062140",
+      "name_cl_sptag": "Girls Uniform",
+      "name_parent": "Anime",
+      "total": 16929
+    }
+  ]
+}

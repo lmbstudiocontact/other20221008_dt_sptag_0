@@ -1,0 +1,391 @@
+{
+  "id_sptag": "552551720",
+  "index_page": 0,
+  "name_cl_sptag": "5Toubun no Hanayome",
+  "name_parent": "Anime",
+  "total_img": 9,
+  "total_page": 0,
+  "hc_lt_alb": "-760531221",
+  "hc_lt_data_img": "-1772454261",
+  "hc_lt_nortag": "602501954",
+  "hc_lt_sptag": "-820198296",
+  "lt_alb": [
+    {
+      "id_alb": "63410260",
+      "name_alb": "Anime",
+      "total_img": 85314
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "1945251731",
+      "hc_lt_id_sptag": "-132568624",
+      "id_img": "TheQuintessentialQuintuplets_1029633_crop2608_-367636947",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiecaVY4PG+cAgFEYV43dwjdNMuZvwUvKDEQvQg369yK+pVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiecaVY4PG+cAgFEYV43dwjdTJP7zdI0Q+lGvMKhMwuG65Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "799427497",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "81052085",
+        "552551720",
+        "-353024394",
+        "376240968",
+        "1622667236",
+        "1813151526",
+        "1078827483",
+        "-1637014275"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "1945251731",
+      "hc_lt_id_sptag": "1645141934",
+      "id_img": "TheQuintessentialQuintuplets_989162_crop2608_-940522712",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifw8QDQLZs+xbSKuEMzGBv4fIGtqxiVryouf3yEn5DSRJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifw8QDQLZs+xbSKuEMzGBv40NmVDt57PBWhX+J221yr8ZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "799427497",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "552551720",
+        "-353024394",
+        "376240968",
+        "1627623413",
+        "-1317631993",
+        "1078827483",
+        "-1358769180"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "1945251731",
+      "hc_lt_id_sptag": "1218378915",
+      "id_img": "TheQuintessentialQuintuplets_957927_crop2608_1269604296",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiftC0LFlUpzkdZY03GVAQ9NnefDJ3aj35u03yv+499cm5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiftC0LFlUpzkdZY03GVAQ9NdGn4jttk/cfBr7pPJ4kvE5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "799427497",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "581853860",
+        "621027506",
+        "552551720",
+        "-1230434216",
+        "1271226936",
+        "-353024394",
+        "376240968",
+        "1627623413",
+        "-1317631993",
+        "1078827483",
+        "-1637014275"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "1945251731",
+      "hc_lt_id_sptag": "-132568624",
+      "id_img": "TheQuintessentialQuintuplets_1031378_crop2608_-2131072158",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifePs+I0+IF9ImEZYvbFllUGdTRbndFOAHYMRvforRTzJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifePs+I0+IF9ImEZYvbFllUOCdII3Yke2tUH4RJk4XKCZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "799427497",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "81052085",
+        "552551720",
+        "-353024394",
+        "376240968",
+        "1622667236",
+        "1813151526",
+        "1078827483",
+        "-1637014275"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "1945251731",
+      "hc_lt_id_sptag": "-285985306",
+      "id_img": "TheQuintessentialQuintuplets_989166_crop2608_-940522708",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid38Oz3ZbBsfnlmREKx/me+/P/V+tWrLh85HZ2QzLYvKZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid38Oz3ZbBsfnlmREKx/me+1tcH0gNTApCiUS7KQFmpsJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "799427497",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "81052085",
+        "552551720",
+        "-353024394",
+        "376240968",
+        "1813151526",
+        "-1637014275",
+        "-1358769180"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "1945251731",
+      "hc_lt_id_sptag": "413253341",
+      "id_img": "TheQuintessentialQuintuplets_957927_crop2608_-1472694454",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidPu2NBDq//hm3C/ZFN4HQU5b7i5jurOQmqDJb2kcHD3pVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidPu2NBDq//hm3C/ZFN4HQUnPl0UskWhVftNDrP8iiAC5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "799427497",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "581853860",
+        "-1216236529",
+        "81052085",
+        "621027506",
+        "552551720",
+        "1271226936",
+        "-353024394",
+        "376240968",
+        "680065126",
+        "1813151526",
+        "-1317631993",
+        "-1637014275"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "1945251731",
+      "hc_lt_id_sptag": "-1296488977",
+      "id_img": "TheQuintessentialQuintuplets_1032913_crop2608_-2036506790",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifj/qYz5tGoRQYuzK3fQUIVI/knj6V2bCzOvBMFadzG+ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifj/qYz5tGoRQYuzK3fQUIVJG6U/5ckrwf3VJac5uaCz5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "799427497",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "581853860",
+        "-2017515920",
+        "552551720",
+        "376240968",
+        "1622667236",
+        "-1353196196",
+        "1078827483",
+        "1410951528"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "1945251731",
+      "hc_lt_id_sptag": "-647517739",
+      "id_img": "TheQuintessentialQuintuplets_989164_crop2608_-940522710",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicPKuIWuls2UxCuCh9q08EmaNwnQ1gbSLaQyKJEEbT4XJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicPKuIWuls2UxCuCh9q08Em6bvgOqWHAu6n2XTlLm4xB5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "799427497",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "621027506",
+        "552551720",
+        "-1230434216",
+        "376240968",
+        "-1358769180",
+        "1410951528"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "1945251731",
+      "hc_lt_id_sptag": "594873801",
+      "id_img": "TheQuintessentialQuintuplets_989163_crop2608_-940522711",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic38ZZElWqAStW7CHftgKCeEnhyzV3pUx4LHzrx99n2cpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic38ZZElWqAStW7CHftgKCesYZOyj17RkV3unO6yAQ4pJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "799427497",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "581853860",
+        "552551720",
+        "-1230434216",
+        "376240968",
+        "1541647243",
+        "-1353196196",
+        "1078827483",
+        "1410951528"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-1182628656",
+      "name_cl_nortag": "Girls",
+      "total_img": 68557,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "799427497",
+      "name_cl_nortag": "The Quintessential Quintuplets",
+      "total_img": 71,
+      "name_parent": "Anime"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "552551720",
+      "name_cl_sptag": "5Toubun no Hanayome",
+      "name_parent": "Anime",
+      "total": 9
+    },
+    {
+      "id_sptag": "376240968",
+      "name_cl_sptag": "Girls Eyes Blue",
+      "name_parent": "Anime",
+      "total": 25656
+    },
+    {
+      "id_sptag": "1813151526",
+      "name_cl_sptag": "Girls Hair Brow",
+      "name_parent": "Anime",
+      "total": 13760
+    },
+    {
+      "id_sptag": "-1353196196",
+      "name_cl_sptag": "Girls Hair Orange",
+      "name_parent": "Anime",
+      "total": 4128
+    },
+    {
+      "id_sptag": "-1358769180",
+      "name_cl_sptag": "Girls Hair Pink",
+      "name_parent": "Anime",
+      "total": 5690
+    },
+    {
+      "id_sptag": "1627623413",
+      "name_cl_sptag": "Girls Hair Red",
+      "name_parent": "Anime",
+      "total": 3081
+    },
+    {
+      "id_sptag": "-353024394",
+      "name_cl_sptag": "Girls Long Hair",
+      "name_parent": "Anime",
+      "total": 47407
+    },
+    {
+      "id_sptag": "81052085",
+      "name_cl_sptag": "Girls Music",
+      "name_parent": "Anime",
+      "total": 1611
+    },
+    {
+      "id_sptag": "680065126",
+      "name_cl_sptag": "Girls Sad",
+      "name_parent": "Anime",
+      "total": 10506
+    },
+    {
+      "id_sptag": "-2017515920",
+      "name_cl_sptag": "Girls Sharp Canine Tooth",
+      "name_parent": "Anime",
+      "total": 3202
+    },
+    {
+      "id_sptag": "1410951528",
+      "name_cl_sptag": "Girls Short Hair",
+      "name_parent": "Anime",
+      "total": 23769
+    },
+    {
+      "id_sptag": "-1230434216",
+      "name_cl_sptag": "Girls Smile",
+      "name_parent": "Anime",
+      "total": 24284
+    },
+    {
+      "id_sptag": "1541647243",
+      "name_cl_sptag": "Girls Student",
+      "name_parent": "Anime",
+      "total": 16308
+    },
+    {
+      "id_sptag": "1078827483",
+      "name_cl_sptag": "Girls Tie Bows",
+      "name_parent": "Anime",
+      "total": 61257
+    },
+    {
+      "id_sptag": "1622667236",
+      "name_cl_sptag": "Girls Wedding",
+      "name_parent": "Anime",
+      "total": 2328
+    },
+    {
+      "id_sptag": "621027506",
+      "name_cl_sptag": "Ichika Nakano",
+      "name_parent": "Anime",
+      "total": 37
+    },
+    {
+      "id_sptag": "1271226936",
+      "name_cl_sptag": "Itsuki Nakano",
+      "name_parent": "Anime",
+      "total": 39
+    },
+    {
+      "id_sptag": "-1637014275",
+      "name_cl_sptag": "Miku Nakano",
+      "name_parent": "Anime",
+      "total": 47
+    },
+    {
+      "id_sptag": "-1317631993",
+      "name_cl_sptag": "Nino Nakano",
+      "name_parent": "Anime",
+      "total": 43
+    },
+    {
+      "id_sptag": "-1216236529",
+      "name_cl_sptag": "Sad",
+      "name_parent": "Anime",
+      "total": 12057
+    },
+    {
+      "id_sptag": "581853860",
+      "name_cl_sptag": "Yotsuba Nakano",
+      "name_parent": "Anime",
+      "total": 35
+    }
+  ]
+}

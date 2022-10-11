@@ -1,0 +1,229 @@
+{
+  "id_sptag": "-219462361",
+  "index_page": 0,
+  "name_cl_sptag": "Dandelion",
+  "name_parent": "Anime",
+  "total_img": 3,
+  "total_page": 0,
+  "hc_lt_alb": "-760531221",
+  "hc_lt_data_img": "1417646017",
+  "hc_lt_nortag": "-1528971241",
+  "hc_lt_sptag": "1897142635",
+  "lt_alb": [
+    {
+      "id_alb": "63410260",
+      "name_alb": "Anime",
+      "total_img": 85314
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "1521156541",
+      "hc_lt_id_sptag": "-1214536419",
+      "id_img": "Original_854890_crop2608_-1227249544",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicUtjk0S4N3ggxX9ctyA9JILy5E4nvy2HQFCkafGnMPbZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicUtjk0S4N3ggxX9ctyA9JI2nXZH7SVrlKUKLE/Dxey5JVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1911116961",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-1400477168",
+        "750914149",
+        "-1230434216",
+        "-67611207",
+        "1846426926",
+        "9590207",
+        "-1823594757",
+        "-219462361",
+        "1078827483",
+        "491824726",
+        "2137211747",
+        "467732324",
+        "1410951528"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "1521156541",
+      "hc_lt_id_sptag": "-1842684952",
+      "id_img": "Original_854890_crop2608_1239633995",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicOCW1P6WxZoehtql3mrHLauS4FsGPM7OLjHFS7HFDo45Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicOCW1P6WxZoehtql3mrHLaW63MQG+k1fdj66rLxWReFZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1911116961",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-1400477168",
+        "750914149",
+        "-1230434216",
+        "-353024394",
+        "-67611207",
+        "9590207",
+        "-1823594757",
+        "-219462361",
+        "1078827483",
+        "2137211747",
+        "467732324"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-2092928010",
+      "hc_lt_id_sptag": "-977183551",
+      "id_img": "Original_907820_crop2608_-1126159530",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifJmAIr2irVFHFLAIEtEVI42gM+M4tvDXS8l06RK3FZE5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifJmAIr2irVFHFLAIEtEVI4zFUm+lsucYYVp+IVupk105Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-1182628656",
+        "-1556851449"
+      ],
+      "lt_id_sptag": [
+        "-1915687819",
+        "-1377489872",
+        "-353024394",
+        "-67611207",
+        "-219462361",
+        "1078827483",
+        "491824726",
+        "2137211747",
+        "-1358769180"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-1182628656",
+      "name_cl_nortag": "Girls",
+      "total_img": 68557,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "-1556851449",
+      "name_cl_nortag": "Original 10",
+      "total_img": 637,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "1911116961",
+      "name_cl_nortag": "Original 7",
+      "total_img": 594,
+      "name_parent": "Anime"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "2137211747",
+      "name_cl_sptag": "Blonde",
+      "name_parent": "Anime",
+      "total": 908
+    },
+    {
+      "id_sptag": "-67611207",
+      "name_cl_sptag": "Blush",
+      "name_parent": "Anime",
+      "total": 893
+    },
+    {
+      "id_sptag": "-1400477168",
+      "name_cl_sptag": "Bunny Ears",
+      "name_parent": "Anime",
+      "total": 43
+    },
+    {
+      "id_sptag": "9590207",
+      "name_cl_sptag": "Bunny",
+      "name_parent": "Anime",
+      "total": 11
+    },
+    {
+      "id_sptag": "-1377489872",
+      "name_cl_sptag": "Crown",
+      "name_parent": "Anime",
+      "total": 35
+    },
+    {
+      "id_sptag": "-219462361",
+      "name_cl_sptag": "Dandelion",
+      "name_parent": "Anime",
+      "total": 3
+    },
+    {
+      "id_sptag": "491824726",
+      "name_cl_sptag": "Girls Cute Cool",
+      "name_parent": "Anime",
+      "total": 31431
+    },
+    {
+      "id_sptag": "1846426926",
+      "name_cl_sptag": "Girls Ears Neko",
+      "name_parent": "Anime",
+      "total": 7031
+    },
+    {
+      "id_sptag": "467732324",
+      "name_cl_sptag": "Girls Eyes Pink",
+      "name_parent": "Anime",
+      "total": 1874
+    },
+    {
+      "id_sptag": "-1915687819",
+      "name_cl_sptag": "Girls Eyes Red",
+      "name_parent": "Anime",
+      "total": 12697
+    },
+    {
+      "id_sptag": "-1358769180",
+      "name_cl_sptag": "Girls Hair Pink",
+      "name_parent": "Anime",
+      "total": 5690
+    },
+    {
+      "id_sptag": "-1823594757",
+      "name_cl_sptag": "Girls Hair Silver",
+      "name_parent": "Anime",
+      "total": 16300
+    },
+    {
+      "id_sptag": "750914149",
+      "name_cl_sptag": "Girls Kimono Yukata Cheongsam",
+      "name_parent": "Anime",
+      "total": 7942
+    },
+    {
+      "id_sptag": "-353024394",
+      "name_cl_sptag": "Girls Long Hair",
+      "name_parent": "Anime",
+      "total": 47407
+    },
+    {
+      "id_sptag": "1410951528",
+      "name_cl_sptag": "Girls Short Hair",
+      "name_parent": "Anime",
+      "total": 23769
+    },
+    {
+      "id_sptag": "-1230434216",
+      "name_cl_sptag": "Girls Smile",
+      "name_parent": "Anime",
+      "total": 24284
+    },
+    {
+      "id_sptag": "1078827483",
+      "name_cl_sptag": "Girls Tie Bows",
+      "name_parent": "Anime",
+      "total": 61257
+    }
+  ]
+}

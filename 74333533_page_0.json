@@ -1,0 +1,61 @@
+{
+  "id_sptag": "74333533",
+  "index_page": 0,
+  "name_cl_sptag": "Bankai",
+  "name_parent": "Anime",
+  "total_img": 1,
+  "total_page": 0,
+  "hc_lt_alb": "-760531221",
+  "hc_lt_data_img": "1747966624",
+  "hc_lt_nortag": "-1967657191",
+  "hc_lt_sptag": "466297842",
+  "lt_alb": [
+    {
+      "id_alb": "63410260",
+      "name_alb": "Anime",
+      "total_img": 85314
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "271529870",
+      "hc_lt_id_sptag": "-2063153938",
+      "id_img": "Bleach_857464_crop2608_1933508350",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiied4FIk+3S8WUM4KKBtIxxn+qwjPqGmTu1XOlYXoqwt65Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiied4FIk+3S8WUM4KKBtIxxnJjg58l1grUCxpVsrtb/ZYJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-1545815548"
+      ],
+      "lt_id_sptag": [
+        "74333533",
+        "-25648655"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-1545815548",
+      "name_cl_nortag": "Bleach",
+      "total_img": 460,
+      "name_parent": "Anime"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "74333533",
+      "name_cl_sptag": "Bankai",
+      "name_parent": "Anime",
+      "total": 1
+    },
+    {
+      "id_sptag": "-25648655",
+      "name_cl_sptag": "Rukia Kuchiki",
+      "name_parent": "Anime",
+      "total": 81
+    }
+  ]
+}

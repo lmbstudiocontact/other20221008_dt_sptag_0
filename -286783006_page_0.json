@@ -1,0 +1,54 @@
+{
+  "id_sptag": "-286783006",
+  "index_page": 0,
+  "name_cl_sptag": "Dark Magician Girl",
+  "name_parent": "Anime",
+  "total_img": 1,
+  "total_page": 0,
+  "hc_lt_alb": "-760531221",
+  "hc_lt_data_img": "-1637146721",
+  "hc_lt_nortag": "258430247",
+  "hc_lt_sptag": "-1376961308",
+  "lt_alb": [
+    {
+      "id_alb": "63410260",
+      "name_alb": "Anime",
+      "total_img": 85314
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "1831722248",
+      "hc_lt_id_sptag": "689993926",
+      "id_img": "YuGiOh_890068_crop2608_1008823645",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieD7ljDke81jyujvk9WwxfZ74y8VfZM0+WMPj8oBUNNHJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieD7ljDke81jyujvk9WwxfZJNbuQFv2NNZfpibNjbJVeZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1959629648"
+      ],
+      "lt_id_sptag": [
+        "-286783006"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "1959629648",
+      "name_cl_nortag": "YuGiOh",
+      "total_img": 20,
+      "name_parent": "Anime"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "-286783006",
+      "name_cl_sptag": "Dark Magician Girl",
+      "name_parent": "Anime",
+      "total": 1
+    }
+  ]
+}

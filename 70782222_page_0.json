@@ -1,0 +1,166 @@
+{
+  "id_sptag": "70782222",
+  "index_page": 0,
+  "name_cl_sptag": "Berserker FateGrand Order",
+  "name_parent": "Anime",
+  "total_img": 2,
+  "total_page": 0,
+  "hc_lt_alb": "-760531221",
+  "hc_lt_data_img": "-501833649",
+  "hc_lt_nortag": "678781698",
+  "hc_lt_sptag": "-530042044",
+  "lt_alb": [
+    {
+      "id_alb": "63410260",
+      "name_alb": "Anime",
+      "total_img": 85314
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "992186055",
+      "hc_lt_id_sptag": "623767013",
+      "id_img": "FateGrandOrder_916926_crop2608_1262737730",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicB278dNxwjx+vy64vokzNhNp5s06g9IItcPG4jvHNBnpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicB278dNxwjx+vy64vokzNh0eIpm9105IPId84q3YcsN5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-784538297",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-40460588",
+        "70782222",
+        "1755521698",
+        "-353024394",
+        "-1450260536",
+        "-260062140",
+        "1078827483"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "222212765",
+      "hc_lt_id_sptag": "-2049938745",
+      "id_img": "FateExtra_707483_crop2608_543662764",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif/ebOGObOkJvFbpvAr979bbbynX/AlLpBWVxbKx56uE5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif/ebOGObOkJvFbpvAr979bpYYHFvd8qfpMjGrc8RsYTpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-1182628656",
+        "52700349"
+      ],
+      "lt_id_sptag": [
+        "-2017515920",
+        "750914149",
+        "70782222",
+        "1755521698",
+        "-353024394",
+        "-260062140",
+        "-318719419",
+        "1078827483",
+        "491824726",
+        "-1358769180"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "52700349",
+      "name_cl_nortag": "FateExtra",
+      "total_img": 23,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "-784538297",
+      "name_cl_nortag": "FateGrand Order",
+      "total_img": 646,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "-1182628656",
+      "name_cl_nortag": "Girls",
+      "total_img": 68557,
+      "name_parent": "Anime"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "70782222",
+      "name_cl_sptag": "Berserker FateGrand Order",
+      "name_parent": "Anime",
+      "total": 2
+    },
+    {
+      "id_sptag": "-318719419",
+      "name_cl_sptag": "Girls Bell",
+      "name_parent": "Anime",
+      "total": 927
+    },
+    {
+      "id_sptag": "491824726",
+      "name_cl_sptag": "Girls Cute Cool",
+      "name_parent": "Anime",
+      "total": 31431
+    },
+    {
+      "id_sptag": "1755521698",
+      "name_cl_sptag": "Girls Eyes Yellow",
+      "name_parent": "Anime",
+      "total": 6605
+    },
+    {
+      "id_sptag": "-1450260536",
+      "name_cl_sptag": "Girls Hair Blue",
+      "name_parent": "Anime",
+      "total": 9528
+    },
+    {
+      "id_sptag": "-1358769180",
+      "name_cl_sptag": "Girls Hair Pink",
+      "name_parent": "Anime",
+      "total": 5690
+    },
+    {
+      "id_sptag": "750914149",
+      "name_cl_sptag": "Girls Kimono Yukata Cheongsam",
+      "name_parent": "Anime",
+      "total": 7942
+    },
+    {
+      "id_sptag": "-353024394",
+      "name_cl_sptag": "Girls Long Hair",
+      "name_parent": "Anime",
+      "total": 47407
+    },
+    {
+      "id_sptag": "-2017515920",
+      "name_cl_sptag": "Girls Sharp Canine Tooth",
+      "name_parent": "Anime",
+      "total": 3202
+    },
+    {
+      "id_sptag": "1078827483",
+      "name_cl_sptag": "Girls Tie Bows",
+      "name_parent": "Anime",
+      "total": 61257
+    },
+    {
+      "id_sptag": "-260062140",
+      "name_cl_sptag": "Girls Uniform",
+      "name_parent": "Anime",
+      "total": 16929
+    },
+    {
+      "id_sptag": "-40460588",
+      "name_cl_sptag": "Kiyohime FateGrand Order",
+      "name_parent": "Anime",
+      "total": 9
+    }
+  ]
+}

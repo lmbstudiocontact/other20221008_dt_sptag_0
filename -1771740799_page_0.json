@@ -1,0 +1,117 @@
+{
+  "id_sptag": "-1771740799",
+  "index_page": 0,
+  "name_cl_sptag": "Caster FateZero",
+  "name_parent": "Anime",
+  "total_img": 1,
+  "total_page": 0,
+  "hc_lt_alb": "-760531221",
+  "hc_lt_data_img": "996147304",
+  "hc_lt_nortag": "-1893846382",
+  "hc_lt_sptag": "1601280573",
+  "lt_alb": [
+    {
+      "id_alb": "63410260",
+      "name_alb": "Anime",
+      "total_img": 85314
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-2023405074",
+      "hc_lt_id_sptag": "-1158758993",
+      "id_img": "FateApocrypha_837197_crop2608_875101311",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie12IM2Y9CaWowxf9IQ9mB94nipqC60TqraTTwn0E8t6ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie12IM2Y9CaWowxf9IQ9mB94Xxx4+TIAqWE2QOxNh8D25Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-907452212",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "1042267778",
+        "-111108595",
+        "1433508787",
+        "-260062140",
+        "-1165766878",
+        "-1771740799",
+        "1078827483",
+        "290631037",
+        "1410951528"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-907452212",
+      "name_cl_nortag": "FateApocrypha",
+      "total_img": 173,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "-1182628656",
+      "name_cl_nortag": "Girls",
+      "total_img": 68557,
+      "name_parent": "Anime"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "-1771740799",
+      "name_cl_sptag": "Caster FateZero",
+      "name_parent": "Anime",
+      "total": 1
+    },
+    {
+      "id_sptag": "-111108595",
+      "name_cl_sptag": "Girls Eyes Grey",
+      "name_parent": "Anime",
+      "total": 2483
+    },
+    {
+      "id_sptag": "-1165766878",
+      "name_cl_sptag": "Girls Hair Yellow",
+      "name_parent": "Anime",
+      "total": 12651
+    },
+    {
+      "id_sptag": "1410951528",
+      "name_cl_sptag": "Girls Short Hair",
+      "name_parent": "Anime",
+      "total": 23769
+    },
+    {
+      "id_sptag": "1078827483",
+      "name_cl_sptag": "Girls Tie Bows",
+      "name_parent": "Anime",
+      "total": 61257
+    },
+    {
+      "id_sptag": "-260062140",
+      "name_cl_sptag": "Girls Uniform",
+      "name_parent": "Anime",
+      "total": 16929
+    },
+    {
+      "id_sptag": "1433508787",
+      "name_cl_sptag": "Jeanne dArc Fate Series",
+      "name_parent": "Anime",
+      "total": 78
+    },
+    {
+      "id_sptag": "1042267778",
+      "name_cl_sptag": "Ruler FateApocrypha",
+      "name_parent": "Anime",
+      "total": 54
+    },
+    {
+      "id_sptag": "290631037",
+      "name_cl_sptag": "Ruler FateGrand Order",
+      "name_parent": "Anime",
+      "total": 32
+    }
+  ]
+}

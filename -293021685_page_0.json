@@ -1,0 +1,651 @@
+{
+  "id_sptag": "-293021685",
+  "index_page": 0,
+  "name_cl_sptag": "Audi Concepts",
+  "name_parent": "Car",
+  "total_img": 23,
+  "total_page": 0,
+  "hc_lt_alb": "51650555",
+  "hc_lt_data_img": "207751412",
+  "hc_lt_nortag": "1817042312",
+  "hc_lt_sptag": "1845104867",
+  "lt_alb": [
+    {
+      "id_alb": "67508",
+      "name_alb": "Car",
+      "total_img": 21900
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "1814922108",
+      "hc_lt_id_sptag": "1199935854",
+      "id_img": "2013-Audi-Sport-Quattro-Concept-V4-1600_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidCX8/bmFzWPB9U/8bvraFVF3C943woXbJB3XWrdYvAN5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidCX8/bmFzWPB9U/8bvraFVG6mhNB1NyuFvQu3MKWSHWJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "1039933650"
+      ],
+      "lt_id_sptag": [
+        "-1950586279",
+        "1033687757",
+        "-293021685",
+        "1773147073",
+        "321391661"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "1814922108",
+      "hc_lt_id_sptag": "411132958",
+      "id_img": "1991-Audi-Avus-Quattro-Concept-V3-1440_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicJHk1YW/0MasaX/twXbvG0FlEfZ/1mWKXXXuVB9q1bi5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicJHk1YW/0MasaX/twXbvG0OEKJ564GSyQRqqzvJm8CSZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "1039933650"
+      ],
+      "lt_id_sptag": [
+        "226355385",
+        "-293021685",
+        "1773147073",
+        "-1142585592"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "1814922108",
+      "hc_lt_id_sptag": "-991430507",
+      "id_img": "2018-Audi-E-Tron-GT-Concept-V2-2000_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidzWwV4tntfnx6DViYT5/ZvIbGADo+TjgsKJ3gDKf7oUpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidzWwV4tntfnx6DViYT5/ZvJpWFyYgySIX2gCehsiAKbpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "1039933650"
+      ],
+      "lt_id_sptag": [
+        "1427174216",
+        "-1945968674",
+        "-293021685",
+        "1773147073"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "1814922108",
+      "hc_lt_id_sptag": "-1244987017",
+      "id_img": "1991-Audi-Avus-Quattro-Concept-V2-1440_crop_1_left",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidD14W/xItBQdZn6JYuLmUv+fnn35F6+bG2WU/A2i2EE5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidD14W/xItBQdZn6JYuLmUvxfdGSF7HaKo2/dtrIyby2pVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "1039933650"
+      ],
+      "lt_id_sptag": [
+        "226355385",
+        "-946072087",
+        "-293021685",
+        "1773147073"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "1814922108",
+      "hc_lt_id_sptag": "-55478298",
+      "id_img": "2014-Audi-Prologue-Concept-V1-1600_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidQ8DnNtyZsvClsZnVUGpT6ZRmD0X84vci9x2Xal+cL3JVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidQ8DnNtyZsvClsZnVUGpT6wVTVVImP6mflPQMRECoKLpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "1039933650"
+      ],
+      "lt_id_sptag": [
+        "-1949662758",
+        "910932176",
+        "-293021685",
+        "1773147073"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "1814922108",
+      "hc_lt_id_sptag": "-1348519293",
+      "id_img": "2010-Audi-e-Tron-Spyder-Concept-V1-1440_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiichaYma4/fqz1D81Z6Na4P13zFtIMza3n10FUZkKS+cVJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiichaYma4/fqz1D81Z6Na4P1m+SDdRlZbVM7zA7Ddva/CZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "1039933650"
+      ],
+      "lt_id_sptag": [
+        "-1953356842",
+        "-293021685",
+        "-749558582",
+        "1773147073"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "1814922108",
+      "hc_lt_id_sptag": "1963815577",
+      "id_img": "2019-Audi-AI-TRAIL-Quattro-Concept-V3-2160_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidBGJlnhZsNH03Sw6s48aTMA4r8xNeSRpHrXWJOb0OpbZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidBGJlnhZsNH03Sw6s48aTMtiDPEy0uAGq3AnUjj2FH3JVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "1039933650"
+      ],
+      "lt_id_sptag": [
+        "-293021685",
+        "1773147073",
+        "-2005027998",
+        "-1945045153"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "1814922108",
+      "hc_lt_id_sptag": "-1204360092",
+      "id_img": "2017-Audi-Aicon-Concept-V1-2000_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicmudlm6jVv6XQUzQtTPQcIjZTn8lQXZyBQJClTIMayq5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicmudlm6jVv6XQUzQtTPQcI8SA8Ndm7B0xjKu9VDPlqg5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "1039933650"
+      ],
+      "lt_id_sptag": [
+        "1623687721",
+        "-1946892195",
+        "-293021685",
+        "1773147073"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "1814922108",
+      "hc_lt_id_sptag": "-464038664",
+      "id_img": "2010-Audi-e-Tron-Spyder-Concept-V6-1440_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidySmSTairwp/WTdweRE/xSKNQTlka19TZQjfxo8ZIOO5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidySmSTairwp/WTdweRE/xS0/HDRQE8riCgPCCTVtmJhpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "1039933650"
+      ],
+      "lt_id_sptag": [
+        "-1732126107",
+        "-1953356842",
+        "-293021685",
+        "1773147073"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "1814922108",
+      "hc_lt_id_sptag": "221838363",
+      "id_img": "2017-Audi-Q8-Sport-Concept-V2-2000_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicx/wQooPBhWUASwHW3fOdNz1t9xvSC5blmkTxna3WYepVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicx/wQooPBhWUASwHW3fOdNMz5Abm6jmZqfBE6r+klJ65Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "1039933650"
+      ],
+      "lt_id_sptag": [
+        "-1946892195",
+        "1427174216",
+        "1033687757",
+        "-293021685",
+        "1773147073"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "1814922108",
+      "hc_lt_id_sptag": "218933783",
+      "id_img": "2010-Audi-e-Tron-Spyder-Concept-V7-1440_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicJK1Ie6kNRgrf0u5mJC3J6JXDh41wMKMSC0ydCeF3zo5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicJK1Ie6kNRgrf0u5mJC3J6t7G+cP891ucCSJEPplabHpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "1039933650"
+      ],
+      "lt_id_sptag": [
+        "-1928639612",
+        "-1953356842",
+        "-293021685",
+        "1773147073"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "1814922108",
+      "hc_lt_id_sptag": "-293934964",
+      "id_img": "2019-Audi-AI-TRAIL-Quattro-Concept-V2-2160_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidWvKfDNHQiR++BvQ/sCV5USrCLzUm+eWQEsnKUZ9QHO5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidWvKfDNHQiR++BvQ/sCV5UMRHkHX/T0Obj0rfx8phkoZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "1039933650"
+      ],
+      "lt_id_sptag": [
+        "-1808514493",
+        "-293021685",
+        "1773147073",
+        "-1945045153"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "1814922108",
+      "hc_lt_id_sptag": "-5470939",
+      "id_img": "1991-Audi-Avus-Quattro-Concept-V1-1440_crop_1_left",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieK2hXNppRwc3A5oBOIwai1CFmHA06uCbu1DXTW1/XYVpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieK2hXNppRwc3A5oBOIwai1hGByMRBY/YSr2iS3pz4m/JVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "1039933650"
+      ],
+      "lt_id_sptag": [
+        "226355385",
+        "-293021685",
+        "-749558582",
+        "1773147073"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "1814922108",
+      "hc_lt_id_sptag": "-391503238",
+      "id_img": "2015-Audi-E-Tron-Quattro-Concept-V1-1600_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifeKg7MsPPfyAl1Ar6towjbOmaM+33j+YMVTfiClEfP4JVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifeKg7MsPPfyAl1Ar6towjbBi/VsVZv4VbmJdWkHCpGXpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "1039933650"
+      ],
+      "lt_id_sptag": [
+        "910932176",
+        "-1948739237",
+        "-293021685",
+        "1773147073"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "1814922108",
+      "hc_lt_id_sptag": "-183105400",
+      "id_img": "2003-Audi-Le-Mans-Quattro-Concept-V5-1440_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif6A0AvkdSI/11A3zLGRqTIj/hWVfaSb5CTMXUnTqmBd5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif6A0AvkdSI/11A3zLGRqTIZwDQuQT/WZnKmFq1eC7/DJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "1039933650"
+      ],
+      "lt_id_sptag": [
+        "-1535612602",
+        "-293021685",
+        "1773147073",
+        "-1979215430"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "1814922108",
+      "hc_lt_id_sptag": "221481564",
+      "id_img": "2003-Audi-Le-Mans-Quattro-Concept-V1-1440_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiftPQbHXPhFH87khCiJE6JgjZbi7BFbymtXVWje21A4nJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiftPQbHXPhFH87khCiJE6JgUR5zeyR4xVNfMR9y+vE7ApVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "1039933650"
+      ],
+      "lt_id_sptag": [
+        "-293021685",
+        "-749558582",
+        "1773147073",
+        "-1979215430"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "1814922108",
+      "hc_lt_id_sptag": "28078231",
+      "id_img": "2013-Audi-Nanuk-Quattro-Concept-V1-1600_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidqYBZh2rapbAaNiHeTapkbkJhdZZ6+0Lkc8oKqBSg7T5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidqYBZh2rapbAaNiHeTapkbUFArsj3JxD7UaURVzqUfVpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "1039933650"
+      ],
+      "lt_id_sptag": [
+        "-1950586279",
+        "910932176",
+        "-293021685",
+        "1773147073"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "1814922108",
+      "hc_lt_id_sptag": "-879329766",
+      "id_img": "2013-Audi-Sport-Quattro-Concept-V1-1600_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiictIbEXUeSVVN+WCx73XGQ5ljxdEnEGixY4LUhRKQH1jpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiictIbEXUeSVVN+WCx73XGQ5JOZuRh2AHKHhaPSuWXsNzpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "1039933650"
+      ],
+      "lt_id_sptag": [
+        "-1950586279",
+        "910932176",
+        "1033687757",
+        "-293021685",
+        "1773147073"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "1814922108",
+      "hc_lt_id_sptag": "-430212115",
+      "id_img": "2017-Audi-Q8-Sport-Concept-V1-2000_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidnr+R4ch7T574jDjGQd8RnqYx+F4eXD3Tkks7wCf9XN5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidnr+R4ch7T574jDjGQd8Rn/LnrSOQIudqt6QavfFoW6pVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "1039933650"
+      ],
+      "lt_id_sptag": [
+        "1623687721",
+        "-1946892195",
+        "1033687757",
+        "-293021685",
+        "1773147073"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "1814922108",
+      "hc_lt_id_sptag": "-140274369",
+      "id_img": "2018-Audi-PB18-E-Tron-Concept-V1-2000_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicyjqgYi2BwLU4/lL1q4+b3QXvYCxzTllgHGyp0CkTXBJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicyjqgYi2BwLU4/lL1q4+b3WIotmOFlJwGV4RQweiEWVpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "1039933650"
+      ],
+      "lt_id_sptag": [
+        "1623687721",
+        "-1945968674",
+        "-293021685",
+        "1773147073"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "1814922108",
+      "hc_lt_id_sptag": "1706931925",
+      "id_img": "2010-Audi-Quattro-Concept-V2-1440_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicgqbhdViEszApMRxxen6CwzWzBIDDxTXpnD1pua++miZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicgqbhdViEszApMRxxen6CwxcgfaOFRMDkwjLZx+4QJp5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "1039933650"
+      ],
+      "lt_id_sptag": [
+        "-1953356842",
+        "-946072087",
+        "-293021685",
+        "1773147073"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "1814922108",
+      "hc_lt_id_sptag": "692409962",
+      "id_img": "2017-Audi-Q8-Concept-V3-2000_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidiJ8vpNT8y96uRP3Gme+GsB7ImbNf/Lf3x0yEGEsmrS5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidiJ8vpNT8y96uRP3Gme+GsLjw61CXKg2ibsRhXd8WCWZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "1039933650"
+      ],
+      "lt_id_sptag": [
+        "-1946892195",
+        "1230660711",
+        "-293021685",
+        "1773147073"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "1814922108",
+      "hc_lt_id_sptag": "205586140",
+      "id_img": "2009-Audi-E-Tron-Concept-V3-1440_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicaRWGhpxjasK7+QvT1BuZGd2AuTmmgSueCuoKFduuktZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicaRWGhpxjasK7+QvT1BuZGkuQR0AP//Dm8LHYvdTA3zJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "1039933650"
+      ],
+      "lt_id_sptag": [
+        "-1973674304",
+        "-293021685",
+        "1773147073",
+        "-1142585592"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "1039933650",
+      "name_cl_nortag": "Audi",
+      "total_img": 639,
+      "name_parent": "Car"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "226355385",
+      "name_cl_sptag": "1991",
+      "name_parent": "Car",
+      "total": 34
+    },
+    {
+      "id_sptag": "-1979215430",
+      "name_cl_sptag": "2003",
+      "name_parent": "Car",
+      "total": 125
+    },
+    {
+      "id_sptag": "-1973674304",
+      "name_cl_sptag": "2009",
+      "name_parent": "Car",
+      "total": 312
+    },
+    {
+      "id_sptag": "-1953356842",
+      "name_cl_sptag": "2010",
+      "name_parent": "Car",
+      "total": 329
+    },
+    {
+      "id_sptag": "-1950586279",
+      "name_cl_sptag": "2013",
+      "name_parent": "Car",
+      "total": 637
+    },
+    {
+      "id_sptag": "-1949662758",
+      "name_cl_sptag": "2014",
+      "name_parent": "Car",
+      "total": 557
+    },
+    {
+      "id_sptag": "-1948739237",
+      "name_cl_sptag": "2015",
+      "name_parent": "Car",
+      "total": 885
+    },
+    {
+      "id_sptag": "-1946892195",
+      "name_cl_sptag": "2017",
+      "name_parent": "Car",
+      "total": 640
+    },
+    {
+      "id_sptag": "-1945968674",
+      "name_cl_sptag": "2018",
+      "name_parent": "Car",
+      "total": 588
+    },
+    {
+      "id_sptag": "-1945045153",
+      "name_cl_sptag": "2019",
+      "name_parent": "Car",
+      "total": 582
+    },
+    {
+      "id_sptag": "-293021685",
+      "name_cl_sptag": "Audi Concepts",
+      "name_parent": "Car",
+      "total": 23
+    },
+    {
+      "id_sptag": "1773147073",
+      "name_cl_sptag": "Concept",
+      "name_parent": "Car",
+      "total": 1117
+    },
+    {
+      "id_sptag": "1033687757",
+      "name_cl_sptag": "Sport",
+      "name_parent": "Car",
+      "total": 373
+    },
+    {
+      "id_sptag": "-749558582",
+      "name_cl_sptag": "V1-1440",
+      "name_parent": "Car",
+      "total": 747
+    },
+    {
+      "id_sptag": "910932176",
+      "name_cl_sptag": "V1-1600",
+      "name_parent": "Car",
+      "total": 515
+    },
+    {
+      "id_sptag": "1623687721",
+      "name_cl_sptag": "V1-2000",
+      "name_parent": "Car",
+      "total": 384
+    },
+    {
+      "id_sptag": "-946072087",
+      "name_cl_sptag": "V2-1440",
+      "name_parent": "Car",
+      "total": 394
+    },
+    {
+      "id_sptag": "1427174216",
+      "name_cl_sptag": "V2-2000",
+      "name_parent": "Car",
+      "total": 219
+    },
+    {
+      "id_sptag": "-1808514493",
+      "name_cl_sptag": "V2-2160",
+      "name_parent": "Car",
+      "total": 104
+    },
+    {
+      "id_sptag": "-1142585592",
+      "name_cl_sptag": "V3-1440",
+      "name_parent": "Car",
+      "total": 491
+    },
+    {
+      "id_sptag": "1230660711",
+      "name_cl_sptag": "V3-2000",
+      "name_parent": "Car",
+      "total": 278
+    },
+    {
+      "id_sptag": "-2005027998",
+      "name_cl_sptag": "V3-2160",
+      "name_parent": "Car",
+      "total": 152
+    },
+    {
+      "id_sptag": "321391661",
+      "name_cl_sptag": "V4-1600",
+      "name_parent": "Car",
+      "total": 248
+    },
+    {
+      "id_sptag": "-1535612602",
+      "name_cl_sptag": "V5-1440",
+      "name_parent": "Car",
+      "total": 256
+    },
+    {
+      "id_sptag": "-1732126107",
+      "name_cl_sptag": "V6-1440",
+      "name_parent": "Car",
+      "total": 200
+    },
+    {
+      "id_sptag": "-1928639612",
+      "name_cl_sptag": "V7-1440",
+      "name_parent": "Car",
+      "total": 77
+    }
+  ]
+}
