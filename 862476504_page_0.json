@@ -6,9 +6,9 @@
   "total_img": 5,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "1920844110",
+  "hc_lt_data_img": "-778029312",
   "hc_lt_nortag": "-1757393525",
-  "hc_lt_sptag": "1012939484",
+  "hc_lt_sptag": "1231585887",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -47,6 +47,55 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "1521156541",
+      "hc_lt_id_sptag": "-733572828",
+      "id_img": "Original_847274_crop2608_-147610028",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidTk4aQaPrrMndosx13mx/BArcOb6BgVTPDIJ9snWr7fJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidTk4aQaPrrMndosx13mx/B7G/0MCB6GlyGx3ZTO92+jpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1911116961",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-333189356",
+        "-1937610099",
+        "606716576",
+        "862476504",
+        "-353024394",
+        "1622667236",
+        "-1823594757",
+        "-899599709",
+        "1078827483"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-143917950",
+      "hc_lt_id_sptag": "-2032372703",
+      "id_img": "Original_309496_crop2608_-609026059",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifhV9wKzUGQWKVBPEi7X+LNVD/PUrfcYIXy++FXMeL48JVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifhV9wKzUGQWKVBPEi7X+LN5Xz+V4gOvXISKveEW31UTpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-467032699",
+        "766871050"
+      ],
+      "lt_id_sptag": [
+        "-568304072",
+        "-467032699",
+        "862476504",
+        "-1455727370",
+        "-671691857",
+        "397265019"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "1521156541",
       "hc_lt_id_sptag": "-1747447785",
       "id_img": "Original_853560_crop2608_1536463545",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieUdtr7KliNnvZv+05KRCZiX0tkyPgg5oC8aenIokDW1ZVy4706IhQgSYlgwrgVRHU=",
@@ -75,7 +124,7 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "326641746",
-      "hc_lt_id_sptag": "38887623",
+      "hc_lt_id_sptag": "1504584500",
       "id_img": "ToukenRanbu_851350_crop2608_-2072162573",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifGo7Ryca+OIzZupzMitOd1cObvZXIaVTyZ+z7+bdaePpVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifGo7Ryca+OIzZupzMitOd1FtLqHFXG5Iss4G3Ddgtps5Vy4706IhQgSYlgwrgVRHU=",
@@ -87,56 +136,9 @@
         "903932837"
       ],
       "lt_id_sptag": [
+        "-467032699",
         "862476504",
         "-1455727370"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-143917950",
-      "hc_lt_id_sptag": "913942508",
-      "id_img": "Original_309496_crop2608_-609026059",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifhV9wKzUGQWKVBPEi7X+LNVD/PUrfcYIXy++FXMeL48JVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifhV9wKzUGQWKVBPEi7X+LN5Xz+V4gOvXISKveEW31UTpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-467032699",
-        "766871050"
-      ],
-      "lt_id_sptag": [
-        "-568304072",
-        "862476504",
-        "-1455727370",
-        "-671691857",
-        "397265019"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "1521156541",
-      "hc_lt_id_sptag": "-733572828",
-      "id_img": "Original_847274_crop2608_-147610028",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidTk4aQaPrrMndosx13mx/BArcOb6BgVTPDIJ9snWr7fJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidTk4aQaPrrMndosx13mx/B7G/0MCB6GlyGx3ZTO92+jpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "1911116961",
-        "-1182628656"
-      ],
-      "lt_id_sptag": [
-        "-333189356",
-        "-1937610099",
-        "606716576",
-        "862476504",
-        "-353024394",
-        "1622667236",
-        "-1823594757",
-        "-899599709",
-        "1078827483"
       ]
     }
   ],
@@ -178,6 +180,12 @@
       "name_cl_sptag": "Beast",
       "name_parent": "Anime",
       "total": 5
+    },
+    {
+      "id_sptag": "-467032699",
+      "name_cl_sptag": "Boy",
+      "name_parent": "Anime",
+      "total": 8592
     },
     {
       "id_sptag": "-333189356",

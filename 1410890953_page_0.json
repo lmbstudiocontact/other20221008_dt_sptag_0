@@ -6,9 +6,9 @@
   "total_img": 3,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "1157262499",
+  "hc_lt_data_img": "1427995573",
   "hc_lt_nortag": "82668652",
-  "hc_lt_sptag": "75069387",
+  "hc_lt_sptag": "-432331450",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -66,7 +66,7 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-196585238",
-      "hc_lt_id_sptag": "1177582486",
+      "hc_lt_id_sptag": "668168033",
       "id_img": "Noragami_740339_crop2608_-1136396799",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif7JSC1zOHz82Pr53zOxU4jRlZNu6Kyh9CVhOXxHkxWCpVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif7JSC1zOHz82Pr53zOxU4jyX8o9dGEidBDXvMXH2ILzpVy4706IhQgSYlgwrgVRHU=",
@@ -80,6 +80,7 @@
       "lt_id_sptag": [
         "-1440224708",
         "-819441842",
+        "-467032699",
         "1956034203",
         "-1216236529",
         "1410890953",
@@ -125,6 +126,12 @@
       "name_cl_sptag": "Boy Sad",
       "name_parent": "Anime",
       "total": 1551
+    },
+    {
+      "id_sptag": "-467032699",
+      "name_cl_sptag": "Boy",
+      "name_parent": "Anime",
+      "total": 8592
     },
     {
       "id_sptag": "467732324",

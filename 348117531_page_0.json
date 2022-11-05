@@ -6,9 +6,9 @@
   "total_img": 2,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "447193222",
+  "hc_lt_data_img": "-502456653",
   "hc_lt_nortag": "-1052060528",
-  "hc_lt_sptag": "84551157",
+  "hc_lt_sptag": "74955526",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -37,7 +37,7 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "1407927577",
-      "hc_lt_id_sptag": "-278809595",
+      "hc_lt_id_sptag": "-2086846664",
       "id_img": "FairyTail_828463_crop2608_1151394098",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieQIhPUXuJ644ofWFE5e0sPOIe5jr1wsb40rQTU/FFdR5Vy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieQIhPUXuJ644ofWFE5e0sPBNPSL/AL0unp5BS9cG5L/pVy4706IhQgSYlgwrgVRHU=",
@@ -49,6 +49,7 @@
         "-1250415468"
       ],
       "lt_id_sptag": [
+        "-467032699",
         "1956034203",
         "-1216236529",
         "348117531"
@@ -81,6 +82,12 @@
       "name_cl_sptag": "Boy Sad",
       "name_parent": "Anime",
       "total": 1551
+    },
+    {
+      "id_sptag": "-467032699",
+      "name_cl_sptag": "Boy",
+      "name_parent": "Anime",
+      "total": 8592
     },
     {
       "id_sptag": "-1216236529",

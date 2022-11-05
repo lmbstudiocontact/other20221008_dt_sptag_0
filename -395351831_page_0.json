@@ -6,9 +6,9 @@
   "total_img": 3,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "-1670583306",
+  "hc_lt_data_img": "1244475518",
   "hc_lt_nortag": "391793829",
-  "hc_lt_sptag": "-709079491",
+  "hc_lt_sptag": "-804643168",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -73,7 +73,7 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-551148784",
-      "hc_lt_id_sptag": "-379492856",
+      "hc_lt_id_sptag": "-312486777",
       "id_img": "FateExtra_915999_crop2608_-1500538999",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie/1Mywc2hnwXiO5Qe/9kgaUGRpq+WaS/MYLWEYVT4WP5Vy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie/1Mywc2hnwXiO5Qe/9kgaIj+5jPil5cMo7YfEIHiMipVy4706IhQgSYlgwrgVRHU=",
@@ -85,7 +85,8 @@
         "52700349"
       ],
       "lt_id_sptag": [
-        "-395351831"
+        "-395351831",
+        "-467032699"
       ]
     }
   ],
@@ -116,6 +117,12 @@
     }
   ],
   "lt_sptag": [
+    {
+      "id_sptag": "-467032699",
+      "name_cl_sptag": "Boy",
+      "name_parent": "Anime",
+      "total": 8592
+    },
     {
       "id_sptag": "-395351831",
       "name_cl_sptag": "Caster FateExtra",

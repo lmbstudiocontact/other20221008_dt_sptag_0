@@ -20,43 +20,6 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-1662551372",
-      "hc_lt_id_sptag": "570388806",
-      "id_img": "KantaiCollection_680678_crop2608_-1504189286",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiejDlAP1wY1p9XHMOPhc694FnEUOnsmFUMBxUYoKVpabpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiejDlAP1wY1p9XHMOPhc694ngdNEVem6YZpi9JaPYb0xpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "579558099",
-        "-1182628656"
-      ],
-      "lt_id_sptag": [
-        "176384593",
-        "1545739930",
-        "750914149",
-        "-1230434216",
-        "-353024394",
-        "376240968",
-        "-932518504",
-        "-1450260536",
-        "-1652616277",
-        "1813151526",
-        "2112990780",
-        "-1165766878",
-        "1078827483",
-        "-873614820",
-        "-932113708",
-        "491824726",
-        "-535250049",
-        "1598235541",
-        "1410951528",
-        "1283338700"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-1662551372",
       "hc_lt_id_sptag": "45437717",
       "id_img": "KantaiCollection_718692_crop2608_-1216526848",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiftvI0ZXadgypMwO67WY0nD/r/tvBpnqknxSKxGdHyDNpVy4706IhQgSYlgwrgVRHU=",
@@ -79,40 +42,6 @@
         "1813151526",
         "-260062140",
         "1078827483"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-1662551372",
-      "hc_lt_id_sptag": "-136005995",
-      "id_img": "KantaiCollection_680678_crop2608_-1560949576",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid+3920tQ34gEVYhjMi9jGY4PDUiuqc6WD6uGJ29eVOS5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid+3920tQ34gEVYhjMi9jGYh3tcAiaqTmQUU+CPYkLbKZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "579558099",
-        "-1182628656"
-      ],
-      "lt_id_sptag": [
-        "176384593",
-        "1545739930",
-        "750914149",
-        "-353024394",
-        "-1686571485",
-        "-932518504",
-        "-1450260536",
-        "-1652616277",
-        "1813151526",
-        "2112990780",
-        "1078827483",
-        "-873614820",
-        "-932113708",
-        "-535250049",
-        "1598235541",
-        "1410951528",
-        "1283338700"
       ]
     },
     {
@@ -173,6 +102,77 @@
         "680065126",
         "2112990780",
         "-899599709",
+        "1078827483",
+        "-873614820",
+        "-932113708",
+        "491824726",
+        "-535250049",
+        "1598235541",
+        "1410951528",
+        "1283338700"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1662551372",
+      "hc_lt_id_sptag": "-136005995",
+      "id_img": "KantaiCollection_680678_crop2608_-1560949576",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid+3920tQ34gEVYhjMi9jGY4PDUiuqc6WD6uGJ29eVOS5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid+3920tQ34gEVYhjMi9jGYh3tcAiaqTmQUU+CPYkLbKZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "579558099",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "176384593",
+        "1545739930",
+        "750914149",
+        "-353024394",
+        "-1686571485",
+        "-932518504",
+        "-1450260536",
+        "-1652616277",
+        "1813151526",
+        "2112990780",
+        "1078827483",
+        "-873614820",
+        "-932113708",
+        "-535250049",
+        "1598235541",
+        "1410951528",
+        "1283338700"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1662551372",
+      "hc_lt_id_sptag": "570388806",
+      "id_img": "KantaiCollection_680678_crop2608_-1504189286",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiejDlAP1wY1p9XHMOPhc694FnEUOnsmFUMBxUYoKVpabpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiejDlAP1wY1p9XHMOPhc694ngdNEVem6YZpi9JaPYb0xpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "579558099",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "176384593",
+        "1545739930",
+        "750914149",
+        "-1230434216",
+        "-353024394",
+        "376240968",
+        "-932518504",
+        "-1450260536",
+        "-1652616277",
+        "1813151526",
+        "2112990780",
+        "-1165766878",
         "1078827483",
         "-873614820",
         "-932113708",

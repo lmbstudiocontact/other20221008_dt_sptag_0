@@ -6,9 +6,9 @@
   "total_img": 2,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "1084055484",
+  "hc_lt_data_img": "-325485657",
   "hc_lt_nortag": "989011703",
-  "hc_lt_sptag": "1238177322",
+  "hc_lt_sptag": "-1420366497",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -45,7 +45,7 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "785469574",
-      "hc_lt_id_sptag": "421827118",
+      "hc_lt_id_sptag": "1068783840",
       "id_img": "Original_924862_crop2608_1149080697",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicIbO+kkzA7lyTa2kZIYPy5H3WrFStb7Z+AFj87stIAwpVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicIbO+kkzA7lyTa2kZIYPy5USvcxX0A0J8tyo3c/Kw/gZVy4706IhQgSYlgwrgVRHU=",
@@ -57,6 +57,7 @@
         "-1680016906"
       ],
       "lt_id_sptag": [
+        "-1680016906",
         "1040824175",
         "1772307832",
         "427772013",
@@ -138,6 +139,12 @@
       "name_cl_sptag": "Scarf",
       "name_parent": "Anime",
       "total": 169
+    },
+    {
+      "id_sptag": "-1680016906",
+      "name_cl_sptag": "Scenery Arts",
+      "name_parent": "Anime",
+      "total": 2036
     },
     {
       "id_sptag": "1040824175",

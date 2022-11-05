@@ -6,9 +6,9 @@
   "total_img": 2,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "-1423733947",
+  "hc_lt_data_img": "-2050005504",
   "hc_lt_nortag": "-272586048",
-  "hc_lt_sptag": "-453829565",
+  "hc_lt_sptag": "1943216930",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -20,7 +20,7 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "2110268358",
-      "hc_lt_id_sptag": "785099233",
+      "hc_lt_id_sptag": "776899421",
       "id_img": "Original_903370_crop2608_1265256158",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid8t2HpfgpytkqQPsh+HM4FugxPmH1xmD8pIbAkj1qMQZVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid8t2HpfgpytkqQPsh+HM4FPgrOEU6O2F0lpAdylI8CnZVy4706IhQgSYlgwrgVRHU=",
@@ -34,6 +34,7 @@
       "lt_id_sptag": [
         "-333189356",
         "-124333362",
+        "1728965817",
         "-1910110731",
         "-67611207",
         "-1046579185",
@@ -143,6 +144,12 @@
       "name_cl_sptag": "Cat",
       "name_parent": "Anime",
       "total": 128
+    },
+    {
+      "id_sptag": "1728965817",
+      "name_cl_sptag": "Couple",
+      "name_parent": "Anime",
+      "total": 2059
     },
     {
       "id_sptag": "-184252212",

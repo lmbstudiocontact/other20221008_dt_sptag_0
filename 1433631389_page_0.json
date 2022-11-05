@@ -6,9 +6,9 @@
   "total_img": 4,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "1347564144",
+  "hc_lt_data_img": "-1104492957",
   "hc_lt_nortag": "452200591",
-  "hc_lt_sptag": "903228160",
+  "hc_lt_sptag": "-192838865",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -17,6 +17,33 @@
     }
   ],
   "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-2023405074",
+      "hc_lt_id_sptag": "-1372736173",
+      "id_img": "FateApocrypha_915299_crop2608_-929757037",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicesD6TbOJ1lf3OOLtj8g55BD6WehRneyglvg0kFalABpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicesD6TbOJ1lf3OOLtj8g55uMmf5JO0uZoSfkXwy3ebFZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-907452212",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "1271392973",
+        "-1937610099",
+        "1755521698",
+        "117222074",
+        "1433631389",
+        "-1823594757",
+        "-1882261033",
+        "1078827483",
+        "491824726",
+        "1410951528"
+      ]
+    },
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-2023405074",
@@ -47,35 +74,8 @@
     },
     {
       "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-2023405074",
-      "hc_lt_id_sptag": "-1372736173",
-      "id_img": "FateApocrypha_915299_crop2608_-929757037",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicesD6TbOJ1lf3OOLtj8g55BD6WehRneyglvg0kFalABpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicesD6TbOJ1lf3OOLtj8g55uMmf5JO0uZoSfkXwy3ebFZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-907452212",
-        "-1182628656"
-      ],
-      "lt_id_sptag": [
-        "1271392973",
-        "-1937610099",
-        "1755521698",
-        "117222074",
-        "1433631389",
-        "-1823594757",
-        "-1882261033",
-        "1078827483",
-        "491824726",
-        "1410951528"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "1969520411",
-      "hc_lt_id_sptag": "1967442583",
+      "hc_lt_id_sptag": "159405514",
       "id_img": "FateApocrypha_858781_crop2608_967914931",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidpCHLLwgVfIXR/GtHStKa2ya1KZ0y5y3c67SZVEiIVJZVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidpCHLLwgVfIXR/GtHStKa26rURoZ1d1tRO4/MdcsjjTZVy4706IhQgSYlgwrgVRHU=",
@@ -87,6 +87,7 @@
         "-467032699"
       ],
       "lt_id_sptag": [
+        "-467032699",
         "-1666763806",
         "1433631389",
         "-1176638482"
@@ -152,6 +153,12 @@
       "name_cl_sptag": "Boy Dark Black",
       "name_parent": "Anime",
       "total": 573
+    },
+    {
+      "id_sptag": "-467032699",
+      "name_cl_sptag": "Boy",
+      "name_parent": "Anime",
+      "total": 8592
     },
     {
       "id_sptag": "-1176638482",

@@ -6,9 +6,9 @@
   "total_img": 1,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "1333151161",
+  "hc_lt_data_img": "-2094304601",
   "hc_lt_nortag": "602157366",
-  "hc_lt_sptag": "1454615183",
+  "hc_lt_sptag": "-1119544204",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -20,7 +20,7 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "84962745",
-      "hc_lt_id_sptag": "-682020754",
+      "hc_lt_id_sptag": "1804909473",
       "id_img": "DramaticalMurder_963994_crop2608_-885905802",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieGUXoQiifJ/gUCGCwIeTvpvc6Wv1maXuJS5F8QJ/m7OJVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieGUXoQiifJ/gUCGCwIeTvptKaSGShNENqbAQUzN0Xd+5Vy4706IhQgSYlgwrgVRHU=",
@@ -32,6 +32,7 @@
         "-1287885362"
       ],
       "lt_id_sptag": [
+        "-467032699",
         "-916678437",
         "778868352",
         "1756476645"
@@ -58,6 +59,12 @@
       "name_cl_sptag": "Aoba Seragaki",
       "name_parent": "Anime",
       "total": 3
+    },
+    {
+      "id_sptag": "-467032699",
+      "name_cl_sptag": "Boy",
+      "name_parent": "Anime",
+      "total": 8592
     },
     {
       "id_sptag": "-916678437",

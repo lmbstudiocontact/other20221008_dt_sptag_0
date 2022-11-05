@@ -6,9 +6,9 @@
   "total_img": 1,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "529907594",
+  "hc_lt_data_img": "1827612942",
   "hc_lt_nortag": "1541372204",
-  "hc_lt_sptag": "-725370582",
+  "hc_lt_sptag": "-234049651",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -20,7 +20,7 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-1971765911",
-      "hc_lt_id_sptag": "1176044797",
+      "hc_lt_id_sptag": "-300695312",
       "id_img": "OnePiece_932951_crop2608_-706805274",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieJ5VdurlF3yg1RqLxXhESVKmfZU4ZeaSd/rp27AN4WA5Vy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieJ5VdurlF3yg1RqLxXhESVVbkVIHZfnw/bZ4jp/A1JP5Vy4706IhQgSYlgwrgVRHU=",
@@ -32,6 +32,7 @@
         "-467032699"
       ],
       "lt_id_sptag": [
+        "-467032699",
         "1343189681"
       ]
     }
@@ -51,6 +52,12 @@
     }
   ],
   "lt_sptag": [
+    {
+      "id_sptag": "-467032699",
+      "name_cl_sptag": "Boy",
+      "name_parent": "Anime",
+      "total": 8592
+    },
     {
       "id_sptag": "1343189681",
       "name_cl_sptag": "Charlotte Katakuri",

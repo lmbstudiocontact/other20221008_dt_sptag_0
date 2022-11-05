@@ -6,9 +6,9 @@
   "total_img": 3,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "1586839771",
+  "hc_lt_data_img": "-1578810633",
   "hc_lt_nortag": "-493531626",
-  "hc_lt_sptag": "-2051247623",
+  "hc_lt_sptag": "1438937524",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -19,8 +19,28 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "64835941",
+      "hc_lt_id_sptag": "946719246",
+      "id_img": "AjinDemiHuman_712428_crop2608_-109528943",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicFsBZBwJwTf/62Dwt0mNPiTW+00eisaCCCSGAWv1pFuJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicFsBZBwJwTf/62Dwt0mNPiMqzAasJo5gA0/uNerTkezpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-2122815209",
+        "-467032699"
+      ],
+      "lt_id_sptag": [
+        "1135968913",
+        "-467032699",
+        "589446419"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "2079012137",
-      "hc_lt_id_sptag": "272969650",
+      "hc_lt_id_sptag": "1877549023",
       "id_img": "TokyoGhoul_545915_crop2608_-1637796711",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidEtSGQu6PVwYXmcwA3jTmXxy/hZ6pCW/PJlQSyuCPlrZVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidEtSGQu6PVwYXmcwA3jTmXmwmZvVZ6LM6Lq3SpnNVRMpVy4706IhQgSYlgwrgVRHU=",
@@ -33,6 +53,7 @@
       ],
       "lt_id_sptag": [
         "1135968913",
+        "-467032699",
         "-375059391",
         "119451417",
         "747710398",
@@ -48,26 +69,7 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "64835941",
-      "hc_lt_id_sptag": "34607323",
-      "id_img": "AjinDemiHuman_712428_crop2608_-109528943",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicFsBZBwJwTf/62Dwt0mNPiTW+00eisaCCCSGAWv1pFuJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicFsBZBwJwTf/62Dwt0mNPiMqzAasJo5gA0/uNerTkezpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-2122815209",
-        "-467032699"
-      ],
-      "lt_id_sptag": [
-        "1135968913",
-        "589446419"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "64835941",
-      "hc_lt_id_sptag": "-1919548529",
+      "hc_lt_id_sptag": "-1007436606",
       "id_img": "AjinDemiHuman_702652_crop2608_1454583529",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidwNx9hPqynznGaWhjncu+N8XtcKJp+8CkbCq+Z0vf0F5Vy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidwNx9hPqynznGaWhjncu+NLmkeXF5kZHh9KDB8yb/c3JVy4706IhQgSYlgwrgVRHU=",
@@ -80,6 +82,7 @@
       ],
       "lt_id_sptag": [
         "1135968913",
+        "-467032699",
         "-1228339687"
       ]
     }
@@ -122,6 +125,12 @@
       "name_cl_sptag": "Boy Dark Black",
       "name_parent": "Anime",
       "total": 573
+    },
+    {
+      "id_sptag": "-467032699",
+      "name_cl_sptag": "Boy",
+      "name_parent": "Anime",
+      "total": 8592
     },
     {
       "id_sptag": "747710398",

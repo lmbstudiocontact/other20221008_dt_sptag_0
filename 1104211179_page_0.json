@@ -6,9 +6,9 @@
   "total_img": 3,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "-503772725",
+  "hc_lt_data_img": "1252862222",
   "hc_lt_nortag": "-1271131293",
-  "hc_lt_sptag": "1640205754",
+  "hc_lt_sptag": "1009284549",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -43,7 +43,7 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "1763704587",
-      "hc_lt_id_sptag": "393997399",
+      "hc_lt_id_sptag": "-1414039670",
       "id_img": "DiabolikLovers_954878_crop2608_-618250342",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid+wwD/Dlfyh5mvEvSaZiWY3p7EPJ1wXJBjpBCbUXzy2pVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid+wwD/Dlfyh5mvEvSaZiWY7iRPsMT7w74JfGHQXh65XpVy4706IhQgSYlgwrgVRHU=",
@@ -55,6 +55,7 @@
         "1395718119"
       ],
       "lt_id_sptag": [
+        "-467032699",
         "1956034203",
         "-1216236529",
         "1104211179"
@@ -116,6 +117,12 @@
       "name_cl_sptag": "Boy Sad",
       "name_parent": "Anime",
       "total": 1551
+    },
+    {
+      "id_sptag": "-467032699",
+      "name_cl_sptag": "Boy",
+      "name_parent": "Anime",
+      "total": 8592
     },
     {
       "id_sptag": "1217448162",

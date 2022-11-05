@@ -6,9 +6,9 @@
   "total_img": 1,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "166554684",
+  "hc_lt_data_img": "1629796461",
   "hc_lt_nortag": "724226693",
-  "hc_lt_sptag": "1455676316",
+  "hc_lt_sptag": "806668547",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -20,7 +20,7 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-631827800",
-      "hc_lt_id_sptag": "-745424590",
+      "hc_lt_id_sptag": "2072802597",
       "id_img": "TrinitySeven_924546_crop2608_1303304459",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifMpZ0lm+WWoQ5/7Zew2E6fDEWYZFAw/2Hhre77mXDhRpVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifMpZ0lm+WWoQ5/7Zew2E6fLEBZ6cU35oJn0xrwsuaMiZVy4706IhQgSYlgwrgVRHU=",
@@ -32,6 +32,7 @@
         "1096307697"
       ],
       "lt_id_sptag": [
+        "-467032699",
         "195591982"
       ]
     }
@@ -56,6 +57,12 @@
       "name_cl_sptag": "Arata Kasuga",
       "name_parent": "Anime",
       "total": 1
+    },
+    {
+      "id_sptag": "-467032699",
+      "name_cl_sptag": "Boy",
+      "name_parent": "Anime",
+      "total": 8592
     }
   ]
 }

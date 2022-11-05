@@ -20,44 +20,6 @@
     {
       "hc_lt_id_alb": "51561147",
       "hc_lt_id_nortag": "-1017816510",
-      "hc_lt_id_sptag": "524459472",
-      "id_img": "2014-Cadillac-ELR-V3-1600_crop_2_center",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicZoC2R+ilEP7IMe0Jqyei9ahout57FBDRns7B2JscyXJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicZoC2R+ilEP7IMe0Jqyei96uOCMy6oAEe9cobivB9XYpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "67508"
-      ],
-      "list_id_nortag": [
-        "2049652894"
-      ],
-      "lt_id_sptag": [
-        "517905166",
-        "-1949662758",
-        "-570783479"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "51561147",
-      "hc_lt_id_nortag": "-1017816510",
-      "hc_lt_id_sptag": "991175862",
-      "id_img": "2014-Cadillac-ELR-V1-1600_crop_2_center",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieLKUXUiPdVcMkAXJ3WnyA/7Ny8UKSlSsXWSu3EbL3DD5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieLKUXUiPdVcMkAXJ3WnyA/GzaDnz2i3doqSw1Lzsw22JVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "67508"
-      ],
-      "list_id_nortag": [
-        "2049652894"
-      ],
-      "lt_id_sptag": [
-        "-1949662758",
-        "910932176",
-        "-570783479"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "51561147",
-      "hc_lt_id_nortag": "-1017816510",
       "hc_lt_id_sptag": "-1736742556",
       "id_img": "2016-Cadillac-ELR-V4-1600_crop_2_center",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicHy0Faf1MqNTfB2JrvYtI8Ahr9mrN0npdSIAubfzw/HZVy4706IhQgSYlgwrgVRHU=",
@@ -91,6 +53,44 @@
         "-1949662758",
         "-570783479",
         "-71635349"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1017816510",
+      "hc_lt_id_sptag": "524459472",
+      "id_img": "2014-Cadillac-ELR-V3-1600_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicZoC2R+ilEP7IMe0Jqyei9ahout57FBDRns7B2JscyXJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicZoC2R+ilEP7IMe0Jqyei96uOCMy6oAEe9cobivB9XYpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "2049652894"
+      ],
+      "lt_id_sptag": [
+        "517905166",
+        "-1949662758",
+        "-570783479"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1017816510",
+      "hc_lt_id_sptag": "991175862",
+      "id_img": "2014-Cadillac-ELR-V1-1600_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieLKUXUiPdVcMkAXJ3WnyA/7Ny8UKSlSsXWSu3EbL3DD5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieLKUXUiPdVcMkAXJ3WnyA/GzaDnz2i3doqSw1Lzsw22JVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "2049652894"
+      ],
+      "lt_id_sptag": [
+        "-1949662758",
+        "910932176",
+        "-570783479"
       ]
     }
   ],

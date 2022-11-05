@@ -6,9 +6,9 @@
   "total_img": 4,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "571919921",
+  "hc_lt_data_img": "2123490877",
   "hc_lt_nortag": "-1077972062",
-  "hc_lt_sptag": "504358061",
+  "hc_lt_sptag": "-1410886556",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -48,7 +48,7 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-907827277",
-      "hc_lt_id_sptag": "-1511144013",
+      "hc_lt_id_sptag": "-180663489",
       "id_img": "Sukasuka_854600_crop2608_851499104",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid/MGYY6itauNS8nie7g++DmzItE9IZgv2LbeIk0LdO95Vy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid/MGYY6itauNS8nie7g++DG57XvyFmkYTVhy/N1joMcpVy4706IhQgSYlgwrgVRHU=",
@@ -60,7 +60,8 @@
         "1952547689"
       ],
       "lt_id_sptag": [
-        "-1674797758"
+        "-1674797758",
+        "1728965817"
       ]
     },
     {
@@ -140,6 +141,12 @@
       "name_cl_sptag": "Chtholly Nota Seniorious",
       "name_parent": "Anime",
       "total": 4
+    },
+    {
+      "id_sptag": "1728965817",
+      "name_cl_sptag": "Couple",
+      "name_parent": "Anime",
+      "total": 2059
     },
     {
       "id_sptag": "491824726",

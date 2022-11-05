@@ -6,9 +6,9 @@
   "total_img": 4,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "1580954346",
+  "hc_lt_data_img": "-457010302",
   "hc_lt_nortag": "-512449046",
-  "hc_lt_sptag": "-17713073",
+  "hc_lt_sptag": "1024060529",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -20,7 +20,7 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "235078819",
-      "hc_lt_id_sptag": "-696673746",
+      "hc_lt_id_sptag": "-1888795392",
       "id_img": "RokudenashiMajutsuKoushitoAkashicRecords_819678_crop2608_-2060904592",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidptbedep7kNktnyybdSFZm1J61tQ/vYcthXcX/4K/kqZVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidptbedep7kNktnyybdSFZmWFzuP5BsKc7KnYHzAIdw45Vy4706IhQgSYlgwrgVRHU=",
@@ -36,6 +36,7 @@
         "177416588",
         "-464433724",
         "-62884229",
+        "1728965817",
         "63311442",
         "-67611207",
         "-2139614718",
@@ -45,6 +46,28 @@
         "-1738046121",
         "1334784168",
         "176756002"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "235078819",
+      "hc_lt_id_sptag": "-27801397",
+      "id_img": "RokudenashiMajutsuKoushitoAkashicRecords_854845_crop2608_2124592503",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif8c4oEn12J1haiUCtOuyspDnjIIjxpGZuoxp8MXrKnepVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif8c4oEn12J1haiUCtOuyspk9+NVY5lnWYMa8VnBgWspJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1728965817",
+        "1788071657"
+      ],
+      "lt_id_sptag": [
+        "1125663660",
+        "164769148",
+        "-62884229",
+        "1728965817",
+        "630267846"
       ]
     },
     {
@@ -91,7 +114,7 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-446511802",
-      "hc_lt_id_sptag": "-1321502387",
+      "hc_lt_id_sptag": "1496724800",
       "id_img": "RokudenashiMajutsuKoushitoAkashicRecords_819655_crop2608_-1267524369",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieg4qaIe2aG0dN0NVizTqrasKfhtFN7v05WZzFaofwndZVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieg4qaIe2aG0dN0NVizTqra32Cf3LHeThIXpzes50N2OpVy4706IhQgSYlgwrgVRHU=",
@@ -103,28 +126,8 @@
         "1788071657"
       ],
       "lt_id_sptag": [
+        "-467032699",
         "-62884229"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "235078819",
-      "hc_lt_id_sptag": "-1774342409",
-      "id_img": "RokudenashiMajutsuKoushitoAkashicRecords_854845_crop2608_2124592503",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif8c4oEn12J1haiUCtOuyspDnjIIjxpGZuoxp8MXrKnepVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif8c4oEn12J1haiUCtOuyspk9+NVY5lnWYMa8VnBgWspJVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "1728965817",
-        "1788071657"
-      ],
-      "lt_id_sptag": [
-        "1125663660",
-        "164769148",
-        "-62884229",
-        "630267846"
       ]
     }
   ],
@@ -180,10 +183,22 @@
       "total": 116
     },
     {
+      "id_sptag": "-467032699",
+      "name_cl_sptag": "Boy",
+      "name_parent": "Anime",
+      "total": 8592
+    },
+    {
       "id_sptag": "-2139614718",
       "name_cl_sptag": "Celica Arfonia",
       "name_parent": "Anime",
       "total": 3
+    },
+    {
+      "id_sptag": "1728965817",
+      "name_cl_sptag": "Couple",
+      "name_parent": "Anime",
+      "total": 2059
     },
     {
       "id_sptag": "376240968",

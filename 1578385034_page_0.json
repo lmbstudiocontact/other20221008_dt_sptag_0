@@ -6,9 +6,9 @@
   "total_img": 1,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "-1638341611",
+  "hc_lt_data_img": "-279276257",
   "hc_lt_nortag": "-1611756643",
-  "hc_lt_sptag": "751252860",
+  "hc_lt_sptag": "-1711148301",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -20,7 +20,7 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "510479324",
-      "hc_lt_id_sptag": "1952587985",
+      "hc_lt_id_sptag": "-1203898029",
       "id_img": "Original_792975_crop2608_-879965593",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieLVrG5RFoGff58r1XEMtHKWiqYq4bCY5jrA5I3SCzvdZVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieLVrG5RFoGff58r1XEMtHKTNijbYoQCOY4DHmdYaa92ZVy4706IhQgSYlgwrgVRHU=",
@@ -34,6 +34,7 @@
       "lt_id_sptag": [
         "-434665979",
         "1578385034",
+        "-1680016906",
         "1659257169",
         "-826103243",
         "1377039742",
@@ -87,6 +88,12 @@
       "name_cl_sptag": "Fish",
       "name_parent": "Anime",
       "total": 66
+    },
+    {
+      "id_sptag": "-1680016906",
+      "name_cl_sptag": "Scenery Arts",
+      "name_parent": "Anime",
+      "total": 2036
     },
     {
       "id_sptag": "-826103243",

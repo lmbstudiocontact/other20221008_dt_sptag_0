@@ -39,10 +39,10 @@
     {
       "hc_lt_id_alb": "51561147",
       "hc_lt_id_nortag": "933824203",
-      "hc_lt_id_sptag": "1211486989",
-      "id_img": "2018-Dodge-Durango-SRT-V3-2000_crop_2_center",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieCJ5Y3VAMDHmP777vW270pMDkGZqYRpSNpMUwTKU3OvZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieCJ5Y3VAMDHmP777vW270pMgkc9poiKc/7pnd7UD6DTpVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_sptag": "167176172",
+      "id_img": "2018-Dodge-Durango-SRT-V4-2000_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifk85EUP1WK9BVig1sbEM7Gog+AcA3tF3AgYQcHX5HFOpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifk85EUP1WK9BVig1sbEM7GJ8dBkgu2JTAeILTRADNv25Vy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "67508"
       ],
@@ -50,9 +50,28 @@
         "-868488784"
       ],
       "lt_id_sptag": [
-        "1230660711",
+        "1034147206",
         "1263065798",
         "-1945968674"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "933824203",
+      "hc_lt_id_sptag": "-2131388492",
+      "id_img": "2018-Dodge-Durango-SRT-V5-2000_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicgQuSt/oitsdAL6fdKWLYe52bdf4YhSMd+qdXC4pkJBpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicgQuSt/oitsdAL6fdKWLYe1mgrb4G6PE+9i7UtGl/9nZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-868488784"
+      ],
+      "lt_id_sptag": [
+        "1263065798",
+        "-1945968674",
+        "837633701"
       ]
     },
     {
@@ -70,25 +89,6 @@
       ],
       "lt_id_sptag": [
         "1623687721",
-        "1263065798",
-        "-1945968674"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "51561147",
-      "hc_lt_id_nortag": "933824203",
-      "hc_lt_id_sptag": "167176172",
-      "id_img": "2018-Dodge-Durango-SRT-V4-2000_crop_2_center",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifk85EUP1WK9BVig1sbEM7Gog+AcA3tF3AgYQcHX5HFOpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifk85EUP1WK9BVig1sbEM7GJ8dBkgu2JTAeILTRADNv25Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "67508"
-      ],
-      "list_id_nortag": [
-        "-868488784"
-      ],
-      "lt_id_sptag": [
-        "1034147206",
         "1263065798",
         "-1945968674"
       ]
@@ -115,10 +115,10 @@
     {
       "hc_lt_id_alb": "51561147",
       "hc_lt_id_nortag": "933824203",
-      "hc_lt_id_sptag": "-2131388492",
-      "id_img": "2018-Dodge-Durango-SRT-V5-2000_crop_2_center",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicgQuSt/oitsdAL6fdKWLYe52bdf4YhSMd+qdXC4pkJBpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicgQuSt/oitsdAL6fdKWLYe1mgrb4G6PE+9i7UtGl/9nZVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_sptag": "1211486989",
+      "id_img": "2018-Dodge-Durango-SRT-V3-2000_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieCJ5Y3VAMDHmP777vW270pMDkGZqYRpSNpMUwTKU3OvZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieCJ5Y3VAMDHmP777vW270pMgkc9poiKc/7pnd7UD6DTpVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "67508"
       ],
@@ -126,9 +126,9 @@
         "-868488784"
       ],
       "lt_id_sptag": [
+        "1230660711",
         "1263065798",
-        "-1945968674",
-        "837633701"
+        "-1945968674"
       ]
     }
   ],

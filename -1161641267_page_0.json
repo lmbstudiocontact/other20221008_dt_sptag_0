@@ -6,9 +6,9 @@
   "total_img": 5,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "-1534527731",
+  "hc_lt_data_img": "-1067460818",
   "hc_lt_nortag": "760789449",
-  "hc_lt_sptag": "-781082035",
+  "hc_lt_sptag": "-507070070",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -17,24 +17,6 @@
     }
   ],
   "lt_data_img": [
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "795716792",
-      "hc_lt_id_sptag": "-1207590649",
-      "id_img": "Crossover_246768_crop2608_2076481552",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicazl8HlWYJGbBf1uRF1hp5IhKbqiHgAd0aR4KdelBVl5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicazl8HlWYJGbBf1uRF1hp5we3LTSwfkRaYGb4Fi9aRTJVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-467032699",
-        "1213914829"
-      ],
-      "lt_id_sptag": [
-        "-1161641267"
-      ]
-    },
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-1650082013",
@@ -62,6 +44,52 @@
         "-1161641267",
         "1078827483",
         "1114479900"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1650082013",
+      "hc_lt_id_sptag": "-1870816637",
+      "id_img": "Chobits_111779_crop2608_2003107785",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicTKTYM1EY3naxFjLV5Neji7qAVwt1OIyfKJ7qb5yDgWpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicTKTYM1EY3naxFjLV5Neji2JDgTQYQfU5NDGLJRgIVkZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-464274071",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "1545739930",
+        "-1216236529",
+        "-353024394",
+        "680065126",
+        "1846426926",
+        "-1165766878",
+        "-1882261033",
+        "-1161641267",
+        "1078827483",
+        "491824726"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "795716792",
+      "hc_lt_id_sptag": "1610636538",
+      "id_img": "Crossover_246768_crop2608_2076481552",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicazl8HlWYJGbBf1uRF1hp5IhKbqiHgAd0aR4KdelBVl5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicazl8HlWYJGbBf1uRF1hp5we3LTSwfkRaYGb4Fi9aRTJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-467032699",
+        "1213914829"
+      ],
+      "lt_id_sptag": [
+        "-467032699",
+        "-1161641267"
       ]
     },
     {
@@ -104,33 +132,6 @@
         "1078827483",
         "491824726"
       ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-1650082013",
-      "hc_lt_id_sptag": "-1870816637",
-      "id_img": "Chobits_111779_crop2608_2003107785",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicTKTYM1EY3naxFjLV5Neji7qAVwt1OIyfKJ7qb5yDgWpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicTKTYM1EY3naxFjLV5Neji2JDgTQYQfU5NDGLJRgIVkZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-464274071",
-        "-1182628656"
-      ],
-      "lt_id_sptag": [
-        "1545739930",
-        "-1216236529",
-        "-353024394",
-        "680065126",
-        "1846426926",
-        "-1165766878",
-        "-1882261033",
-        "-1161641267",
-        "1078827483",
-        "491824726"
-      ]
     }
   ],
   "lt_nortag": [
@@ -160,6 +161,12 @@
     }
   ],
   "lt_sptag": [
+    {
+      "id_sptag": "-467032699",
+      "name_cl_sptag": "Boy",
+      "name_parent": "Anime",
+      "total": 8592
+    },
     {
       "id_sptag": "-1161641267",
       "name_cl_sptag": "Chi Chobits",

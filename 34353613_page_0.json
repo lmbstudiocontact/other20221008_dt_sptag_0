@@ -39,25 +39,6 @@
     {
       "hc_lt_id_alb": "51561147",
       "hc_lt_id_nortag": "309947105",
-      "hc_lt_id_sptag": "-1637006471",
-      "id_img": "2021-Aston-Martin-DBX-V4-2160_crop_2_center",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifneP14vO/mGC17JWO3upOEQjFbU6An1FLEw5uEjbbkzZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifneP14vO/mGC17JWO3upOE0rxnq8FXwc3kQw61JLehOZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "67508"
-      ],
-      "list_id_nortag": [
-        "-304617389"
-      ],
-      "lt_id_sptag": [
-        "34353613",
-        "2093425793",
-        "-1923804170"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "51561147",
-      "hc_lt_id_nortag": "309947105",
       "hc_lt_id_sptag": "23901463",
       "id_img": "2021-Aston-Martin-DBX-V5-2160_crop_2_center",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie7tjgZNPMJsxpP3XPpfBwg9XtEm4bK/59B/+8OzPYt45Vy4706IhQgSYlgwrgVRHU=",
@@ -71,6 +52,25 @@
       "lt_id_sptag": [
         "1896912288",
         "34353613",
+        "-1923804170"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "309947105",
+      "hc_lt_id_sptag": "-1637006471",
+      "id_img": "2021-Aston-Martin-DBX-V4-2160_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifneP14vO/mGC17JWO3upOEQjFbU6An1FLEw5uEjbbkzZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifneP14vO/mGC17JWO3upOE0rxnq8FXwc3kQw61JLehOZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-304617389"
+      ],
+      "lt_id_sptag": [
+        "34353613",
+        "2093425793",
         "-1923804170"
       ]
     }
